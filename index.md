@@ -8,13 +8,8 @@ author_profile: true
 ---
 layout: single
 author_profile: true
-title: "Welcome"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/Winjoy Ntinyari.jpg
-  caption: " Network Engineer. Cloud and Security Enthusiast. Learner."
-excerpt: "Hi, I’m Winjoy Ntinyari — an Electrical and Telecommunication Engineer passionate about networks, systems, and purposeful technology."
+---
+  # Winjoy Ntinyari -Elecrical and Telecommunication Engineer
 ---
 
 Hi there! I'm Winjoy Ntinyari, an Electrical and Telecommunication Engineer with hands-on experience in transmission networks, DWDM, IP RAN and critical network infrastructure. I’ve interned at Safaricom, Kenya Pipeline Company, and Kenya Power. Alongside my engineering experience, I’m actively upskilling in cloud computing, with a focus on AWS Cloud, networking in cloud environments and cloud security, aligning my interests in network infrastructure with the evolving landscape of modern, scalable systems.
