@@ -9,7 +9,32 @@ author_profile: true
 ---
 
 Hi there! I'm Winjoy Ntinyari, an Electrical and Telecommunication Engineer with hands-on experience in transmission networks, DWDM, IP RAN and critical network infrastructure. I’ve interned at Safaricom, Kenya Pipeline Company, and Kenya Power. Alongside my engineering experience, I’m actively upskilling in cloud computing, with a focus on AWS Cloud, networking in cloud environments and cloud security, aligning my interests in network infrastructure with the evolving landscape of modern, scalable systems.
+---
 
+## 🎓 Education
+
+- BSc. Electrical and Telecommunication Engineering 
+  Multimedia University of Kenya  
+  Second Class Honours, Upper Division  
+  Graduated: 2024
+
+- Chogoria Girls High School  
+  Grade: A–
+  Graduated: 2018
+---
+## 📜 Certifications
+
+Safaricom (powered by Skillsoft):
+- Cybersecurity for Associates  
+- 5G for Associate  
+- Networking Basics
+
+freeCodeCamp:
+- Responsive Web Design
+
+Simplilearn:
+- Introduction to ITIL v4
+---
 ## 🚀 Projects
 
 - Intelligent Irrigation System for Small Farms  
