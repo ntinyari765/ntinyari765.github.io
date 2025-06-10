@@ -23,7 +23,7 @@ This module introduced me to the fundamentals of network traffic analysis, inclu
 - tcpdump
 - Wireshark
 
-![Lab Screenshot]({{ "/assets/images/Screenshot_2025-06-10_162135.png" | relative_url }}){: .lab-img}
+![Lab Screenshot]({{ "assets/images/Winjoy_Ntinyari_htb.png" | relative_url }}){: .lab-img}
 
 ### Key Lessons Learned
 This module covered network traffic analysis principles and discussed the implications for both blue team and red team personnel. I learnt Wireshark and tcpdump usage and the different ways to sniff out sensitive data on a network. I also got to understand general network traffic analysis solutions and the security implications of having no visibility into the network
@@ -44,7 +44,7 @@ This activity focused on reinforcing my understanding of IOS commands through pr
 ### Tools Used
 - Packettracer
 
-![Lab Screenshot](assets/images/Screenshot 2025-06-10 161902.png){: .lab-img}
+![Lab Screenshot](assets/images/Winjoy_Ntinyari_Ptracer.png){: .lab-img}
 
 ### Key Lessons Learned
 In conclusion, this activity successfully strengthened my ability to configure and manage basic network devices using Cisco IOS commands. I gained practical experience in setting up a small network, assigning IP addresses, configuring switches and routers using CLI and testing connectivity between devices. Additionally, I learned how to retrieve important device information, which further deepened my familiarity with network operations and device management. 
