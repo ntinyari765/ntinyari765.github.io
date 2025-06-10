@@ -2,10 +2,6 @@
 permalink: /resume/
 title: "Resume"
 ---
----
-layout: default
-title: Resume
----
 
 # Winjoy Ntinyari
 
