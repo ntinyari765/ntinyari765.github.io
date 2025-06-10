@@ -15,7 +15,7 @@ title: Projects
 ## IoT Based Intelligent Irrigation Systems for Small Farms
 **2024** | *IoT*
 
-![Project Screenshot](/assets/images/project1.png){: .project-img}
+![Project Screenshot](assets/images/Winjoy Ntinyari Project 1.jpg{: .project-img}
 
 ### Overview
  Integrated microcontroller-based automation into irrigation systems, enabling small-scale farmers to utilize 
@@ -30,8 +30,6 @@ smart technology, improving crop yield while enhancing efficiency and reducing m
 
 ## DWDM link Provisioning
 **2025** | *dwdm*
-
-![Project Screenshot](/assets/images/project2.png){: .project-img}
 
 ### Overview
  I participated in provisioning a 100G DWDM link to enhance network capacity. My role included deploying 
