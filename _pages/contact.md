@@ -10,7 +10,7 @@ author_profile: true
 [Home](/){: .nav-link} | [Resume](/resume){: .nav-link} | [Projects](/projects){: .nav-link} | [Labs](/labs){: .nav-link}
 
 ## Professional Links
-- [LinkedIn](www.linkedin.com/in/winjoyntinyari){: .contact-link}
+- [LinkedIn](https://www.linkedin.com/in/winjoyntinyari){: .contact-link}
 - [GitHub](https://github.com/ntinyari765){: .contact-link}
 - Email: [winjoyntinyari765@gmail.com](mailto:winjoyntinyari765@gmail.com){: .contact-link}
 - Phone: +254769457530
