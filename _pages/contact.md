@@ -11,7 +11,7 @@ author_profile: true
 
 ## Professional Links
 - [LinkedIn](www.linkedin.com/in/winjoyntinyari){: .contact-link}
-- [GitHub](ntinyari765){: .contact-link}
+- [GitHub](https://github.com/ntinyari765){: .contact-link}
 - Email: [winjoyntinyari765@gmail.com](mailto:winjoyntinyari765@gmail.com){: .contact-link}
 - Phone: +254769457530
 
