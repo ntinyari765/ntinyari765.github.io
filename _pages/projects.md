@@ -12,8 +12,6 @@ author_profile: true
 ## IoT Based Intelligent Irrigation Systems for Small Farms
 **2024** | *IoT*
 
-!assets/images/Winjoy_Ntinyari_Project_1.jpg{: .project-img}
-
 ### Overview
 Integrated microcontroller-based automation into irrigation systems, enabling small-scale farmers to utilize smart technology, improving crop yield while enhancing efficiency and reducing manual labor.
 
