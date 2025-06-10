@@ -4,10 +4,6 @@ permalink: /contact/
 layout: pages
 author_profile: true
 ---
----
-layout: pages
-title: Contact
----
 
 # Contact Me
 
