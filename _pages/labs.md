@@ -44,7 +44,7 @@ This activity focused on reinforcing my understanding of IOS commands through pr
 ### Tools Used
 - Packettracer
 
-![Lab Screenshot](assets/images/Winjoy_Ntinyari_Ptracer.png){: .lab-img}
+![Packet Tracer Lab - Winjoy Ntinyari]({{ "assets/images/Winjoy_Ntinyari_Ptracer.png" | relative_url }}){: .lab-img}
 
 ### Key Lessons Learned
 In conclusion, this activity successfully strengthened my ability to configure and manage basic network devices using Cisco IOS commands. I gained practical experience in setting up a small network, assigning IP addresses, configuring switches and routers using CLI and testing connectivity between devices. Additionally, I learned how to retrieve important device information, which further deepened my familiarity with network operations and device management. 
