@@ -3,10 +3,6 @@ title: Labs
 permalink: /labs/
 author_profile: true
 ---
----
-layout: default
-title: Labs
----
 
 # Lab Challenges
 
