@@ -1,11 +1,11 @@
 ---
-
+title: Labs
 permalink: /labs/
 author_profile: true
 ---
 ---
 layout: default
-title: Lab Challenges
+title: Labs
 ---
 
 # Lab Challenges
