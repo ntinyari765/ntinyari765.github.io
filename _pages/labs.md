@@ -31,7 +31,7 @@ This module covered network traffic analysis principles and discussed the implic
 ---
 
 ## Packet Tracer - Build a Switch and Router Network 
-*Category: Network Security*
+*Category: Network Configuration*
 
 ### Problem Statement
 This activity focused on reinforcing my understanding of IOS commands through practical application in a simulated network environment. I used Cisco Packet Tracer to build a simple network consisting of a Cisco router, a Cisco switch and two Windows PCs with terminals. I began by cabling the devices according to the topology diagram, then configured them using the addressing table. I practiced using the Command Line Interface (CLI) to enter and save configurations, and later verified network connectivity to ensure the setup was successful. I then used IOS commands to retrieve device information and answer questions about the network. 
