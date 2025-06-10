@@ -1,11 +1,11 @@
 ---
 title: "Contact"
 permalink: /contact/
-layout: posts
+layout: pages
 author_profile: true
 ---
 ---
-layout: posts
+layout: pages
 title: Contact
 ---
 
