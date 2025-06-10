@@ -1,14 +1,11 @@
+
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
----
-layout: single
+layout: default
 title: Home
 ---
 
 # Winjoy Ntinyari
-![Profile Photo](/assets/images/Winjoy Ntinyari.png){: .profile-img}
+![Profile Photo](/assets/images/Winjoy Ntinyari.jpg){: .profile-img}
 
 **Electrical and Telecommunication Engineer | Cloud and Metwork Security Enthusiast | Learner**  
 
