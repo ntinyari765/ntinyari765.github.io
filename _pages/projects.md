@@ -3,7 +3,9 @@ title: Projects
 permalink: /projects/
 author_profile: true
 ---
-
+title:Projects
+layout: default
+---
 # My Projects
 
 [Home](/){: .nav-link} | [Resume](/resume){: .nav-link} | [Labs](/labs){: .nav-link} | [Contact](/contact){: .nav-link}
