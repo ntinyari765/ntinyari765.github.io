@@ -23,7 +23,7 @@ This module introduced me to the fundamentals of network traffic analysis, inclu
 - tcpdump
 - Wireshark
 
-![Lab Screenshot]({{ "assets/images/Winjoy_Ntinyari_htb.png" | relative_url }}){: .lab-img}
+![Lab Screenshot](assets/images/Winjoy_Ntinyari_htb.png){: .lab-img}
 
 ### Key Lessons Learned
 This module covered network traffic analysis principles and discussed the implications for both blue team and red team personnel. I learnt Wireshark and tcpdump usage and the different ways to sniff out sensitive data on a network. I also got to understand general network traffic analysis solutions and the security implications of having no visibility into the network
